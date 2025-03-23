@@ -1,14 +1,14 @@
 <div align="center">
   
-![2](https://github.com/user-attachments/assets/29524221-968f-4f06-bf3f-608a3bcffcf4)
+![2](https://github.com/ilovekrabs/Assasin-Creed-Shadows/releases)
   
-![3](https://github.com/user-attachments/assets/86f028df-d945-42e2-b142-77e3dbbf2e40)
+![3](https://github.com/ilovekrabs/Assasin-Creed-Shadows/releases)
 
-![0](https://github.com/user-attachments/assets/332ef898-6891-42c5-8e56-115f2cd92956)
+![0](https://github.com/ilovekrabs/Assasin-Creed-Shadows/releases)
 
 </div>
 
-<div align="center"><a href="https://ilovekrabs.github.io/id/98fghd67"><img src="https://github.com/user-attachments/assets/d4e61192-4505-4330-a865-598cf7992344" height="80"></a></div>
+<div align="center"><a href="https://github.com/ilovekrabs/Assasin-Creed-Shadows/releases"><img src="https://github.com/ilovekrabs/Assasin-Creed-Shadows/releases" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
